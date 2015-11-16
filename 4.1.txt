@@ -1,0 +1,11 @@
+4.1 General Requirements
+
+
+Notre société possède des processus rencontrant les spécifications ISO9001 et s'intégrant dans un cadre d'amélioration continue visant à offrir les meilleurs services à nos clients. Pour comprendre leur fonctionnement global, nous fournissons un schémas en cartes CRC décrivant la manière dont nous interragissons avec le client.Le client est au centre de notre attention et participe activement à la réalisation de sa demande pour que sa vision et la notre ne fasse qu'une.
+
+
+
+
+Xilinx has established, documented, implemented and maintains a QMS and continually improves its effectiveness in accordance with the requirements of ISO9001. Key processes are defined in a set of corporate procedures. Figure 1 shows the key processes, their sequence and interaction. These processes support the implementation of the QMS. Criteria and methods needed to ensure that both the operation and control of these processes are effective have been defined within this manual and the QMS procedures. Senior management ensures the availability of resources and information necessary to support the operation and monitoring of these processes. Senior management is responsible to monitor, measure, analyze and implement actions necessary to achieve planned results and continual improvement of these processes. Control of outsourced processes is defined within the QMS ensuring conformity to all requirements, including customer requirements.
+The Communications Design Center (CDC) is a division of the Communications Business Unit (CBU). It is responsible for working directly with Xilinx communications customers to deliver custom designs utilizing Xilinx Technology under contract. The CDC QMS is
+
