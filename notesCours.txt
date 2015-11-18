@@ -1,0 +1,6 @@
+Processus à faire apparaître : 
+
+- Le projet : Prop - Go/NoGo - Réal - Fermeture (post-mortem?)
+- Réalisation : SCRUM
+- Gestion de la configuration (SWEBOK - chap6)
+- Amélioration continue (ISO 9001, chap8)
